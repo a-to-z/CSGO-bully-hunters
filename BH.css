@@ -1,0 +1,84 @@
+.body {
+  font-family: 'Gugi', cursive;
+  background: url(file:///C:/Users/Compro/Desktop/bully%20hunter/images/csgomain.png);
+  height: 900px;
+}
+.container h1 {
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 150px;
+  padding-top: 5px;
+  margin-top: 5px;
+  color: rgb(117 45 21);
+}
+.container h2 {
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 50px;
+}
+#color {
+
+    text-decoration: none;
+    padding-bottom: 80px;
+    margin-bottom: 90px;
+}
+#color1 a {
+  color: rgb(54 45 36);
+  text-decoration: none;
+}
+#color a {
+  color: rgb(54 45 36);
+  text-decoration: none;
+}
+.container #color a:hover {
+  color: rgb(206 53 45);
+}
+.container #color1 a:hover {
+  color: rgb(206 53 45);
+}
+ /* voice page */
+ .bodyV {
+   font-family: 'Gugi', cursive;
+   background: url(file:///C:/Users/Compro/Desktop/bully%20hunter/images/41800.jpg);
+   margin-left: 775px;
+ }
+ .containerV div {
+   margin-top: 5px;
+   margin-bottom: 5px;
+   border-bottom: 1px solid black;
+ }
+#pic1 {
+  width: 370px;
+}
+#pic2 {
+  width: 297px;
+}
+.containerV h1 {
+  font-size: 40px;
+}
+
+ /* chat page */
+ .bodyC {
+   font-family: 'Gugi', cursive;
+   background: url(file:///C:/Users/Compro/Desktop/bully%20hunter/images/725340.png);
+ }
+.containerC h1 {
+  text-align: center;
+  text-transform: uppercase;
+  color: rgb(128,128,128);
+  margin-bottom: 70px;
+  margin-top: 120px;
+  font-size: 100px;
+}
+#ethan {
+  margin: 50px 500px 70px 680px;
+  width: 650px;
+  height: 140px;
+}
+.containerC h2 {
+  text-align: center;
+  text-transform: uppercase;
+    color: rgb(128,128,128);
+    margin-top: 100px;
+    font-size: 50px;
+}
